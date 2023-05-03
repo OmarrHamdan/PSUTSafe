@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81594086408",
+    "project_id": "psutsafe-8f4b0",
+    "storage_bucket": "psutsafe-8f4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81594086408:android:653017d3f031a998244dbd",
+        "android_client_info": {
+          "package_name": "com.example.psutsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81594086408-hmgf8tfqu4p7f392u47o3db23fbn7dlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjSCB8sAdiYAsXEL-tDZ9Oue4Tm-M-I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81594086408-hmgf8tfqu4p7f392u47o3db23fbn7dlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
